@@ -1,15 +1,15 @@
-# 🧠 Momentum Shift Tracker
+# Momentum Shift Tracker
 
 A real-time sports analytics tool that detects psychological momentum swings in games using win probability data and Twitter sentiment analysis.
 
-## 🌟 Features
+## Features
 
 - Real-time win probability swing detection
 - Twitter sentiment analysis around key moments
 - Automated momentum shift alerts via Twitter
 - Future ML model for team resilience prediction
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
